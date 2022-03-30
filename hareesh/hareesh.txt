@@ -1,2 +1,105 @@
 hi
-this is hareesh
+this is hareesLinuxize
+Ubuntu
+Centos
+Debian
+Commands
+Series
+Donate
+
+
+How to Undo and Redo in Vim / Vi
+Updated  Oct 2, 2020
+
+•
+2 min read
+
+Vim Undo and Redo
+
+Sometimes, when editing a file, you may delete a wrong line or change your mind about an edit, and you’ll want to revert the changes.
+
+This article explains how to undo and redo changes in Vim / Vi.
+
+Either Vi or Vim is installed by default on macOS and almost all Linux distributions. Knowing Vim’s basics might be very useful when you encounter a situation where your favorite editor is not available.
+
+Undo Changes in Vim / Vi
+Vim keeps track of all the changes you made in the current session. The undo command undoes one or more changes in the order in which they were made.
+
+To undo changes in Vim and Vi use the u, :u or :undo commands:
+
+
+If you are in insert or any other mode, press the Esc key to go back to the normal mode, which is also known as command mode.
+Type u to undo the last change. In Vim, the u command also accepts quantifiers. For example, if you want to undo the four last changes, you would use 4u.
+Make sure you’re typing lowercase u, not the uppercase U command, which undoes all latest changes on one line. If you accidentally type U you can undo the change with u.
+
+
+Use the undo command to revert the changes made by any other command, such as delete, paste , search and replace, and so on.
+
+When working in insert mode, all changes to the text are considered as one entry in the undo tree. For example, if you switch to insert mode and enter five lines, then go back to normal mode and press u to undo the change, all five lines are removed.
+
+Redo Changes in Vim / Vi
+The redo feature reverses the action of undo.
+
+To redo a change in Vim and Vi use the Ctrl-R or :redo:
+
+Press the Esc key to go back to the normal mode.
+Use Ctrl-R (press and hold Ctrl and press r) to redo the last change. In Vim, you can also use quantifiers. For example, if you want to redo the 4 last changes, you would type 4Ctrl-R.
+Each undo command can be reversed by a redo command.
+
+Conclusion
+To undo a change in Vim/Vi type u, and to redo a change which was undone use the Ctrl-R key sequence.
+
+ADVERTISING
+
+
+
+Vim also supports undo branches .
+
+Feel free to leave a comment if you have any questions.
+
+terminal
+vim
+
+
+
+
+
+
+
+RELATED TUTORIALS
+
+How to Delete Lines in Vim / Vi
+How to Search in Vim / Vi
+Find and Replace in Vim / Vi
+How to Copy, Cut and Paste in Vim / Vi
+How to Show Line Numbers in Vim / Vi
+How to Save a File in Vim / Vi and Quit the Editor
+Bash read Command
+
+Ezoicreport this ad
+If you like our content, please consider buying us a coffee.
+Thank you for your support!
+
+BUY ME A COFFEE
+Sign up to our newsletter and get our latest tutorials and news straight to your mailbox.
+
+Your email...
+Subscribe
+We’ll never share your email address or spam you.
+
+Related Articles
+JUL 19, 2020
+
+How to Delete Lines in Vim / Vi
+Vim: Delete Lines
+JUN 25, 2020
+
+How to Search in Vim / Vi
+Vim Search
+JAN 11, 2021
+
+Find and Replace in Vim / Vi
+Find and Replace
+Show comments (2)
+© 2022 Linuxize.com Privacy Policy Terms Contact Advertise on Linuxize
+h
