@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1648634956,,"wq"
+|2,0,1648635163,,"wq"
 :q!
 |2,0,1648633144,,"q!"
 :w
@@ -34,30 +34,34 @@
 |3,1,36,0,1,0,1648633130,"e"
 
 # File marks:
-'0  2  6  ~/charan.txt
-|4,48,2,6,1648634956,"~/charan.txt"
-'1  1  0  ~/charan.txt
-|4,49,1,0,1648634939,"~/charan.txt"
+'0  2  1  ~/charan.txt
+|4,48,2,1,1648635163,"~/charan.txt"
+'1  2  6  ~/charan.txt
+|4,49,2,6,1648634956,"~/charan.txt"
 '2  1  0  ~/charan.txt
 |4,50,1,0,1648634939,"~/charan.txt"
-'3  77  0  ~/hareesh/hareesh.txt
-|4,51,77,0,1648633144,"~/hareesh/hareesh.txt"
-'4  89  0  ~/hareesh/hareesh.txt
-|4,52,89,0,1648632554,"~/hareesh/hareesh.txt"
-'5  90  0  ~/hareesh/hareesh.txt
-|4,53,90,0,1648632554,"~/hareesh/hareesh.txt"
-'6  105  0  ~/hareesh/hareesh.txt
-|4,54,105,0,1648632406,"~/hareesh/hareesh.txt"
-'7  105  0  ~/hareesh/hareesh.txt
-|4,55,105,0,1648632406,"~/hareesh/hareesh.txt"
-'8  105  0  ~/hareesh/hareesh.txt
-|4,56,105,0,1648632406,"~/hareesh/hareesh.txt"
+'3  1  0  ~/charan.txt
+|4,51,1,0,1648634939,"~/charan.txt"
+'4  1  0  ~/charan.txt
+|4,52,1,0,1648634939,"~/charan.txt"
+'5  1  0  ~/charan.txt
+|4,53,1,0,1648634939,"~/charan.txt"
+'6  77  0  ~/hareesh/hareesh.txt
+|4,54,77,0,1648633144,"~/hareesh/hareesh.txt"
+'7  89  0  ~/hareesh/hareesh.txt
+|4,55,89,0,1648632554,"~/hareesh/hareesh.txt"
+'8  90  0  ~/hareesh/hareesh.txt
+|4,56,90,0,1648632554,"~/hareesh/hareesh.txt"
 '9  105  0  ~/hareesh/hareesh.txt
 |4,57,105,0,1648632406,"~/hareesh/hareesh.txt"
 
 # Jumplist (newest first):
+-'  2  1  ~/charan.txt
+|4,39,2,1,1648635163,"~/charan.txt"
 -'  2  6  ~/charan.txt
 |4,39,2,6,1648634956,"~/charan.txt"
+-'  1  0  ~/charan.txt
+|4,39,1,0,1648634947,"~/charan.txt"
 -'  1  0  ~/charan.txt
 |4,39,1,0,1648634947,"~/charan.txt"
 -'  1  0  ~/charan.txt
@@ -70,6 +74,22 @@
 |4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
 -'  77  0  ~/hareesh/hareesh.txt
 |4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
+-'  77  0  ~/hareesh/hareesh.txt
+|4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
+-'  77  0  ~/hareesh/hareesh.txt
+|4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
+-'  77  0  ~/hareesh/hareesh.txt
+|4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
+-'  77  0  ~/hareesh/hareesh.txt
+|4,39,77,0,1648633144,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648633128,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648633128,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648633128,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648633128,"~/hareesh/hareesh.txt"
 -'  89  0  ~/hareesh/hareesh.txt
 |4,39,89,0,1648633128,"~/hareesh/hareesh.txt"
 -'  89  0  ~/hareesh/hareesh.txt
@@ -86,6 +106,30 @@
 |4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
 -'  90  0  ~/hareesh/hareesh.txt
 |4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
+-'  90  0  ~/hareesh/hareesh.txt
+|4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
+-'  90  0  ~/hareesh/hareesh.txt
+|4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
+-'  90  0  ~/hareesh/hareesh.txt
+|4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
+-'  90  0  ~/hareesh/hareesh.txt
+|4,39,90,0,1648632554,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632536,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632536,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632536,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632536,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632536,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632536,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632536,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632536,"~/hareesh/hareesh.txt"
 -'  87  0  ~/hareesh/hareesh.txt
 |4,39,87,0,1648632536,"~/hareesh/hareesh.txt"
 -'  88  0  ~/hareesh/hareesh.txt
@@ -118,6 +162,38 @@
 |4,39,86,0,1648632501,"~/hareesh/hareesh.txt"
 -'  87  0  ~/hareesh/hareesh.txt
 |4,39,87,0,1648632501,"~/hareesh/hareesh.txt"
+-'  86  0  ~/hareesh/hareesh.txt
+|4,39,86,0,1648632501,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632501,"~/hareesh/hareesh.txt"
+-'  86  0  ~/hareesh/hareesh.txt
+|4,39,86,0,1648632501,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632501,"~/hareesh/hareesh.txt"
+-'  86  0  ~/hareesh/hareesh.txt
+|4,39,86,0,1648632501,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632501,"~/hareesh/hareesh.txt"
+-'  86  0  ~/hareesh/hareesh.txt
+|4,39,86,0,1648632501,"~/hareesh/hareesh.txt"
+-'  87  0  ~/hareesh/hareesh.txt
+|4,39,87,0,1648632501,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632499,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648632499,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632499,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648632499,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632499,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648632499,"~/hareesh/hareesh.txt"
+-'  88  0  ~/hareesh/hareesh.txt
+|4,39,88,0,1648632499,"~/hareesh/hareesh.txt"
+-'  89  0  ~/hareesh/hareesh.txt
+|4,39,89,0,1648632499,"~/hareesh/hareesh.txt"
 -'  88  0  ~/hareesh/hareesh.txt
 |4,39,88,0,1648632499,"~/hareesh/hareesh.txt"
 -'  89  0  ~/hareesh/hareesh.txt
@@ -150,6 +226,22 @@
 |4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
 -'  94  7  ~/hareesh/hareesh.txt
 |4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
+-'  94  7  ~/hareesh/hareesh.txt
+|4,39,94,7,1648632460,"~/hareesh/hareesh.txt"
 -'  97  15  ~/hareesh/hareesh.txt
 |4,39,97,15,1648632459,"~/hareesh/hareesh.txt"
 -'  97  15  ~/hareesh/hareesh.txt
@@ -164,108 +256,16 @@
 |4,39,97,15,1648632459,"~/hareesh/hareesh.txt"
 -'  97  15  ~/hareesh/hareesh.txt
 |4,39,97,15,1648632459,"~/hareesh/hareesh.txt"
--'  97  15  ~/hareesh/hareesh.txt
-|4,39,97,15,1648632459,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  98  8  ~/hareesh/hareesh.txt
-|4,39,98,8,1648632457,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632418,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632406,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632406,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632406,"~/hareesh/hareesh.txt"
--'  105  0  ~/hareesh/hareesh.txt
-|4,39,105,0,1648632406,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648632400,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648631983,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648631983,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648631983,"~/hareesh/hareesh.txt"
--'  2  14  ~/hareesh/hareesh.txt
-|4,39,2,14,1648631983,"~/hareesh/hareesh.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
--'  1  20  ~/charan/charan.txt
-|4,39,1,20,1648628653,"~/charan/charan.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/charan.txt
-	*	1648634955	0
-	"	2	6
-	^	2	7
-	.	2	6
+	*	1648635162	0
+	"	2	1
+	^	2	2
+	.	2	2
 	+	3	0
-	+	2	6
+	+	2	2
 
 > ~/hareesh/hareesh.txt
 	*	1648633141	0
