@@ -1,4 +1,6 @@
 [user]
-	name = Your Name
-	gmail = charankanth@gmail.com
+	name = charan
+	gmail = charanreddy@gmail.com
 	email = you@example.com
+[colour]
+	ui = true
